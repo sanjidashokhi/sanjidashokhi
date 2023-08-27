@@ -1,7 +1,6 @@
-![I am Font End Developer](https://scontent.fspd5-1.fna.fbcdn.net/v/t1.6435-9/123378147_984598052052440_2595142275317622108_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH5cugIHaYfu-rbR-oAspJB1_gAeyIO6bzX-AB7Ig7pvFTAesKX79EA_s489wlbHaLOwpui3mkkrJs849Z0ORzL&_nc_ohc=4oJ0BaxVEMsAX_LWa8K&_nc_ht=scontent.fspd5-1.fna&oh=00_AfAeNr4VbX0cFsKEV1jdHC3_DlQd1N6PGZTwUX7Haudq5w&oe=65125F97)
+![I am Font End Developer](https://scontent.fspd5-1.fna.fbcdn.net/v/t39.30808-6/371777552_1647079765804262_6725435085251794585_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFDhPReg6ooGSXCCS8FOMMg7E_rhJw73QHsT-uEnDvdAZVtCjGVDLiwfMT2WXWVkWydbOr6cxBwSGODl1T97qjm&_nc_ohc=YUhYPc3YTzEAX-iU_Wk&_nc_ht=scontent.fspd5-1.fna&oh=00_AfDazLhY8afaezrvvDJN3JBwp-LhJb0RQQfKwQi6u4218w&oe=64F0C230)
 ### Hi there 👋, i'm Sanjida_Nasrin Shokhi
 #### I am Font End Developer
-
 
 Hello, I am Sanjida Nashrin Shokhi.  I am currently working in various marketplaces with Font End Development.  Hopefully I can upload more good work in the future. Thanks
 
