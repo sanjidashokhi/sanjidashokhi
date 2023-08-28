@@ -1,15 +1,15 @@
 ![](https://scontent.fspd5-1.fna.fbcdn.net/v/t39.30808-6/371476778_1647223655789873_4589072828574864305_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeF8FBUGfylYau0CSFcEeqSwuyVWl_4Zd567JVaX_hl3nreUxIAuA3H1NnnUwHcPYthI3eNCQlm5DsQd9w3AFEwM&_nc_ohc=Fl481xHwN6AAX_XrqGV&_nc_ht=scontent.fspd5-1.fna&oh=00_AfCkCJu2Lzcmse_8vnCihNr__u3WbcvtKzBzd5XfOuA2OQ&oe=64EFDCA5)
 ### Hi there 👋, i'm Sanjida_Nasrin Shokhi
-#### I am Font End Developer
+#### I am Front End Developer
 
-Hello, I am Sanjida Nashrin Shokhi.  I am currently working in various marketplaces with Font End Development.  Hopefully I can upload more good work in the future. Thanks
+Hello, I am Sanjida Nashrin Shokhi.  I am currently working in various marketplaces with Front End Development.  Hopefully I can upload more good work in the future. Thanks
 
 Skills:  JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on freelancer.com & Upwork.com 
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with Browser 
-- 💬 Ask me about Font End Developer 
+- 💬 Ask me about Front End Developer 
 - 📫 How to reach me: good work 
 - 😄 Pronouns: determination and satisfaction 
 - ⚡ Fun fact: I work on 24 hours 
